@@ -121,3 +121,11 @@ border: 5px solid #24240d;
 border-radius: 10px;
 
 }
+
+main a[href^="mailto:"] {
+
+color: #ff5722;
+
+font-weight: bold;
+
+}
